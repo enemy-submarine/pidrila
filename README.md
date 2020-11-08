@@ -56,7 +56,7 @@ Features
 Screenshot
 --------
 <p align="center">
-        <img align="center" src="https://github.com/enemy-submarine/pidrila/raw/master/Pidrila.png">
+        <img align="center" src="https://raw.githubusercontent.com/enemy-submarine/pidrila/main/Pidrila.png">
 </p>
 
 Usage examples
