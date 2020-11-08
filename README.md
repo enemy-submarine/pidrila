@@ -53,6 +53,12 @@ Features
 - HTTP and SOCKS proxy support
 - User agent randomization
 
+Screenshot
+--------
+<p align="center">
+        <img align="center" src="https://github.com/enemy-submarine/pidrila/raw/master/Pidrila.png">
+</p>
+
 Usage examples
 --------
 Scan single clearweb site
