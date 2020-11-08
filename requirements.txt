@@ -1,0 +1,5 @@
+aiohttp_socks
+python-socks[asyncio]
+tqdm~=4.51.0
+click~=7.1.2
+aiohttp~=3.7.2

@@ -1,0 +1,6 @@
+.mm         mm
+]  [  (\   ]` `   PIDRILA
+]mm`  .'.  'bm    v{MAYOR_VERSION}.{MINOR_VERSION}.{REVISION}
+]  [  | |    '[
+]mm`  | |  'md`
+      |_|
